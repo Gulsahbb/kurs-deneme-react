@@ -3,17 +3,20 @@ import './App.css'
 import Header from './Header'
 import { courses } from './Data'
 import Course from './Course'
+import './css/Course.css';
 function App() {
 
   return (
     <div>
       <Header />
+      <div>
+        {
+          courses?.map((course) => (
+            <Course key={course.id} course={course} />
+          ))
+        }
+      </div>
 
-      {
-        courses?.map((course) => (
-          <Course key={course.id} course={course} />
-        ))
-      }
 
     </div>
   )
