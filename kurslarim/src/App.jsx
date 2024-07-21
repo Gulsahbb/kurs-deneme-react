@@ -3,7 +3,8 @@ import './App.css'
 import Header from './Header'
 import { courses } from './Data'
 import Course from './Course'
-import './css/Course.css';
+import './css/Course.css'
+import Footer from './Footer'
 function App() {
 
   return (
@@ -16,6 +17,7 @@ function App() {
           ))
         }
       </div>
+      <Footer />
     </div>
   )
 }
