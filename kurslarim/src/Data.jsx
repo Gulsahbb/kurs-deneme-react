@@ -6,7 +6,7 @@ export const courses = [
     {
         id: 1244,
         title: "HTML",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, nostrum!Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, nostrum!",
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed consequuntur aperiam modi suscipit adipisci? Repellendus blanditiis id expedita alias nobis?",
         price: 120,
         link: "https://www.google.com",
         image: htmlC
@@ -22,7 +22,7 @@ export const courses = [
     {
         id: 4765,
         title: "JS",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed consequuntur aperiam modi suscipit adipisci?",
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed consequuntur aperiam modi suscipit adipisci? Repellendus blanditiis id expedita alias nobis?",
         price: 145,
         link: "https://www.google.com",
         image: jsC
@@ -30,7 +30,7 @@ export const courses = [
     {
         id: 8934,
         title: "REACT",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed consequuntur aperiam modi suscipit adipisci? Repellendus blanditiis id expedita alias nobis",
         price: 145,
         link: "https://www.google.com",
         image: reactC
