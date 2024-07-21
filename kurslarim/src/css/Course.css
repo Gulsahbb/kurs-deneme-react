@@ -43,7 +43,7 @@
 }
 
 .course-link {
-
+    display: block;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
     color: rgb(84, 84, 142);
