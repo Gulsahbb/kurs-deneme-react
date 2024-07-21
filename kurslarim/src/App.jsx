@@ -9,15 +9,13 @@ function App() {
   return (
     <div>
       <Header />
-      <div>
+      <div className='course-main'>
         {
           courses?.map((course) => (
             <Course key={course.id} course={course} />
           ))
         }
       </div>
-
-
     </div>
   )
 }

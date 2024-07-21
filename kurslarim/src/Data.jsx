@@ -6,7 +6,7 @@ export const courses = [
     {
         id: 1244,
         title: "HTML",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, nostrum!",
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, nostrum!Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, nostrum!",
         price: 120,
         link: "https://www.google.com",
         image: htmlC

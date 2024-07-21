@@ -1,0 +1,17 @@
+.course-main {
+    display: flex;
+    flex-direction: row;
+    /*Kursları yanyana dizebilmek için*/
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    /*Header ile araya mesafe koyduk.*/
+
+}
+
+.course {
+
+    width: 250px;
+    height: 350px;
+    border: 1px solid lightblue;
+}
